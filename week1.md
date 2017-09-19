@@ -1,6 +1,6 @@
 ## First commit
 
-Hallo,
+Hallo,  
 Ik ben Joey de Ruiter en studeer sinds kort aan de hogeschool leiden. Ik ben 19 jaar oud, woon in Rijnsburg en ben een grote fan van programmeren, computer technologie en games. Als vooropleiding heb ik mediatechnologie gestudeerd aan het grafisch lyceum Rotterdam. Tijdens die opleiding heb ik stage gelopen bij Floro, waar ik nog steeds werk.
 
 De redenen waarom ik voor hogeschool leiden heb gekozen is omdat de school sfeer fijn aanvoelde, het lekker dichtbij is en ik ken een oud student van de school. 
